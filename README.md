@@ -11,3 +11,6 @@
 # Autor: Dulce María Madrigal Blas
 ## Estado del proyecto
 Proyecto en etapa inicial
+
+## Control de versiones
+Este proyecto utiliza Git para el ontrol de versiones y GitHub como repositorio remoto.
