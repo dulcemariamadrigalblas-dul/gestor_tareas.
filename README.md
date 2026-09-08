@@ -9,3 +9,5 @@
 • Navegador web
 
 # Autor: Dulce María Madrigal Blas
+## Estado del proyecto
+Proyecto en etapa inicial
